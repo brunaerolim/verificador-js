@@ -1,7 +1,7 @@
 # Verificador de Idade! :snowman:
 
 #### Verificador em Javascript que calcula a idade do usuário com o ano atual. 
-<img src="assets/foto.jpg">
+<img src="assets/imagem.png">
 
 
 ## Como executar:
