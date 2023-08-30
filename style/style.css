@@ -42,6 +42,10 @@ div {
     color: #fff;
 }
 
+#res img {
+    padding: 36px;
+}
+
 footer {
     text-align: center;
     font-style: italic;
